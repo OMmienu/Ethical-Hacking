@@ -9,16 +9,7 @@ It demonstrates host discovery, port scanning, service detection, OS fingerprint
 - Use Scapy for sniffing, crafting, and inspecting packets.
 - Capture and analyze network traffic.
 - Document results professionally.
-- Build a cybersecurity portfolio-ready project.
-
-
-## 📁 Repository Structure
-📦 PenTest-Labs
-┣ 📄 README.md
-┣ 📄 Nmap_Lab.md
-┣ 📄 Scapy_Lab.md
-┗ 📄 Reflection_Post.md
-
+- Build a cybersecurity portfolio-ready project
 
 ## 🛠 Tools Used
 - **Nmap**
