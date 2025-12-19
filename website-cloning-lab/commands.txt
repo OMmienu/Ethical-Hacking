@@ -1,0 +1,13 @@
+sudo su
+setoolkit
+Type 1
+Press Enter
+Type 2
+Press Enter
+Type 3
+Press Enter
+Type 2
+Press Enter
+Type 10.6.6.1
+Press Enter
+http://dvwa.vm
