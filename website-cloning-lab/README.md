@@ -21,18 +21,6 @@ All activities were performed in an isolated lab environment. No real users, pro
 - Nmap
 - DVWA
 
-
-## Repository Structure
-ethical-hacking-labs/
-│
-├── website-cloning-lab/
-├── beef-attacks/
-├── smb-enum4linux-lab/
-└── README.md
-
-
----
-
 ## Skills Gained
 - Social engineering attack simulation
 - Website cloning and phishing techniques
