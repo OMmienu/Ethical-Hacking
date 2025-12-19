@@ -1,0 +1,12 @@
+sudo su
+nmap -sN 172.17.0.0/24
+
+enum4linux -U 172.17.0.2
+enum4linux -n 172.17.0.2
+enum4linux -o 172.17.0.2
+enum4linux -S 172.17.0.2
+enum4linux -P 172.17.0.2
+enum4linux -a 172.17.0.2
+
+smbclient -L //172.17.0.2/
+smbclient //172.17.0.2/tmp
